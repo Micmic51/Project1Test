@@ -9,3 +9,5 @@ print (somme([1,2,3]))
 def moyenne(args):
 	return mean(args)
 print (moyenne([1,2,3]))
+
+print('test')

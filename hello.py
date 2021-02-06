@@ -4,3 +4,8 @@ print('hello')
 def somme(args):
 	return sum(args)
 print (somme([1,2,3]))
+
+#this is the mean function
+def moyenne(args):
+	return mean(args)
+print (moyenne([1,2,3]))
